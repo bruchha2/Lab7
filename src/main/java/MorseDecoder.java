@@ -57,6 +57,7 @@ public class MorseDecoder {
             // Sum all the samples together and store them in the returnBuffer
         }
         return returnBuffer;
+        
     }
 
     /** Power threshold for power or no power. You may need to modify this value. */
